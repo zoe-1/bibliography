@@ -33,13 +33,10 @@ notes and bibliography for resources of interest
 
 # Programming Languages
 
-* [JavaScript](./javascript.md)
+* [JavaScript](./languages/javascript.md)
 
 # Programming People
 
 * Donald E. Knuth
     - [The Art of Computer Programming](https://www-cs-faculty.stanford.edu/~knuth/taocp.html)
     - [Books in Print](https://www-cs-faculty.stanford.edu/~knuth/books.html)
-
-* Larry Wall
-    - Video [5 programming langauges everyone should know about](https://www.youtube.com/watch?v=LR8fQiskYII) - June 13, 2011
