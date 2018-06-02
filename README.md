@@ -28,6 +28,10 @@ notes and bibliography for resources of interest
   - [CC Attribution-NonCommercial-ShareAlike 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode) <br/>
     [Git Pro](https://git-scm.com/book/en/v2) book is licensed with Attribution-NonCommercial-ShareAlike 3.0 Unported CC License.
 
+* Seth Goddin - Unleashing the Idea Virus License
+  - [License](./licenses/IdeaVirusLicense.md)
+  - [Book - Unleashing the Idea Virus](https://sethgodin.typepad.com/seths_blog/files/2000Ideavirus.pdf)
+
 
 # Ethics 
 
@@ -40,3 +44,6 @@ notes and bibliography for resources of interest
 * Donald E. Knuth
     - [The Art of Computer Programming](https://www-cs-faculty.stanford.edu/~knuth/taocp.html)
     - [Books in Print](https://www-cs-faculty.stanford.edu/~knuth/books.html)
+
+* Seth Godin
+   - [Unleashing the Idea Virus](https://sethgodin.typepad.com/seths_blog/files/2000Ideavirus.pdf)
