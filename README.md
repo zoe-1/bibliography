@@ -39,7 +39,7 @@ notes and bibliography for resources of interest
 
 * [JavaScript](./languages/javascript.md)
 
-# Programming People
+# People
 
 * Donald E. Knuth
     - [The Art of Computer Programming](https://www-cs-faculty.stanford.edu/~knuth/taocp.html)
