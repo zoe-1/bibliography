@@ -2,15 +2,15 @@
 One of the big three (HTML, CSS, JavaScript).
 
 ### JavaScript Docs
-    * [Tutorials, References, Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/About)
-    * [About the JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/About)
+* [Tutorials, References, Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/About)
+* [About the JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/About)
 
 ### nodejs
-    * [nodejs](https://nodejs.org)
+* [nodejs](https://nodejs.org)
 
 ### reactjs
-    * [reactjs](https://reactjs.org) 
-    * [react guide uberVU](https://github.com/uberVU/react-guide/blob/master/props-vs-state.md)
+* [reactjs](https://reactjs.org) 
+* [react guide uberVU](https://github.com/uberVU/react-guide/blob/master/props-vs-state.md)
 
 
 ## Books
