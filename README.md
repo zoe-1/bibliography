@@ -1,6 +1,8 @@
 # Bibliography
 notes and bibliography for resources of interest
 
+# Ethics 
+
 # Licenses
 
 * Artistic License 2.0
@@ -32,8 +34,8 @@ notes and bibliography for resources of interest
   - [License](./licenses/IdeaVirusLicense.md)
   - [Book - Unleashing the Idea Virus](https://sethgodin.typepad.com/seths_blog/files/2000Ideavirus.pdf)
 
+# [News](./news/news.md)
 
-# Ethics 
 
 # Programming Languages
 
