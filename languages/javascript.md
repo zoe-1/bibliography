@@ -19,7 +19,7 @@ One of the big three (HTML, CSS, JavaScript).
 ### hapijs
 * [hapi source](https://github.com/hapijs/hapi) 
 * [hapi docs](https://github.com/hapijs/hapi) 
-* Favorites:
+* Used most:
   - [boom](https://github.com/hapijs/boom)
   - [catbox](https://github.com/hapijs/catbox)
   - [catbox-redis](https://github.com/hapijs/catbox-redis)
@@ -37,9 +37,9 @@ One of the big three (HTML, CSS, JavaScript).
 * Others of interest:
   - [chairo](https://github.com/hapijs/chairo) <br/>
     hapi plugin for seneca micro services
-  - [oz](https://github.com/hueniverse/oz)
   - [hawk](https://github.com/hueniverse/hawk)
   - [nes](https://github.com/hapijs/nes)
+  - [oz](https://github.com/hueniverse/oz)
   - [seneca](https://github.com/senecajs/seneca)
 
 ### rethinkdb
