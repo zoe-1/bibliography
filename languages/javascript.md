@@ -32,15 +32,15 @@ One of the big three (HTML, CSS, JavaScript).
   - [inert](https://github.com/hapijs/inert)
   - [joi](https://github.com/hapijs/joi)
   - [lab](https://github.com/hapijs/lab)
-  - [nes](https://github.com/hapijs/nes)
   - [podium](https://github.com/hapijs/podium)
   - [university](https://github.com/hapijs/podium)
 * Others of interest:
-  - [oz](https://github.com/hueniverse/oz)
-  - [hawk](https://github.com/hueniverse/hawk)
-  - [seneca](https://github.com/senecajs/seneca)
   - [chairo](https://github.com/hapijs/chairo) <br/>
     hapi plugin for seneca micro services
+  - [oz](https://github.com/hueniverse/oz)
+  - [hawk](https://github.com/hueniverse/hawk)
+  - [nes](https://github.com/hapijs/nes)
+  - [seneca](https://github.com/senecajs/seneca)
 
 ### rethinkdb
   * [rethinkdb](https://www.rethinkdb.com)
