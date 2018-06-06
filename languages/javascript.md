@@ -11,9 +11,9 @@ One of the big three (HTML, CSS, JavaScript).
 ### graphql
 * [graphql](https://graphql.org)
 * [js graphql tutorial](https://graphql.org/graphql-js/)
-* [js graphql](https://github.com/graphql/graphql-js/) 
+* [js graphql](https://github.com/graphql/graphql-js/) <br/>
   Implements the tutorial previously mentioned.
-* [graphi](https://github.com/geek/graphi)
+* [graphi](https://github.com/geek/graphi) <br/>
   hapi graphiql plugin
 
 ### hapijs
@@ -39,7 +39,7 @@ One of the big three (HTML, CSS, JavaScript).
   - [oz](https://github.com/hueniverse/oz)
   - [hawk](https://github.com/hueniverse/hawk)
   - [seneca](https://github.com/senecajs/seneca)
-  - [chairo](https://github.com/hapijs/chairo)
+  - [chairo](https://github.com/hapijs/chairo) <br/>
     hapi plugin for seneca micro services
 
 ### rethinkdb
@@ -53,7 +53,7 @@ One of the big three (HTML, CSS, JavaScript).
 * [reactjs](https://reactjs.org) 
 * [react guide uberVU](https://github.com/uberVU/react-guide/blob/master/props-vs-state.md)
 * [jsx specification](https://facebook.github.io/jsx/)
-* [E4X Specification (ECMA-357)](http://www.ecma-international.org/publications/files/ECMA-ST-WITHDRAWN/Ecma-357.pdf)
+* [E4X Specification (ECMA-357)](http://www.ecma-international.org/publications/files/ECMA-ST-WITHDRAWN/Ecma-357.pdf) <br/>
   React is similar to above 'E4X Specification' and overlaps with a subset of it.
 
 
@@ -65,7 +65,7 @@ One of the big three (HTML, CSS, JavaScript).
   'JavaScript Design Patterns' is listed on the 'Open Books' page.
 
 ### JavaScript Design Patterns - Addy Osmani
-* [Available online with an Open License](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) Addy Osmani
+* [Available online with an Open License](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) <br/> Addy Osmani
 
 
 
